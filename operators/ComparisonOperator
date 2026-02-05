@@ -1,0 +1,8 @@
+var Number1=100;
+var Number2=200;
+console.log(Number1>Number2);
+console.log(Number>=Number2);
+console.log(Number1<Number2);
+console.log(Number1<=Number2);
+console.log(Number1==Number2);
+console.log(Number1!=Number2);
