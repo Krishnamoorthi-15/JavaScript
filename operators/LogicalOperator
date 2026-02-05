@@ -1,0 +1,6 @@
+var Number1=100;
+var Number2=200;
+var Number3=300;
+console.log(Number1>Number2 && Number3>Number2);
+console.log(Number1>Number2 || Number3>Number2);
+console.log(!(Number1>Number2));
