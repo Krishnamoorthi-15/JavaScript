@@ -1,0 +1,6 @@
+var Number1=100;
+var Number2=200;
+if(Number1>Number2){
+    console.log(Number1);}
+else{    console.log(Number2);
+}
