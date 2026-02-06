@@ -1,0 +1,10 @@
+ var Age=19;
+ if(Age>=18){
+        console.log("You are eligible to vote");
+ }
+ else if(Age<18){
+        console.log("You are not eligible to vote");
+ }
+ else{
+        console.log("Invalid input");
+ }
