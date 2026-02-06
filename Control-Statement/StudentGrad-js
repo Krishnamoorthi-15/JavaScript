@@ -1,0 +1,12 @@
+var Mark=75;
+if(Mark>=90){
+    console.log("Grade A");
+}
+else if (Mark>=75){
+    console.log("Grade B");
+}   
+else if (Mark>=45){
+    console.log("Grade C");
+}else{
+    console.log("Grade D");
+}
