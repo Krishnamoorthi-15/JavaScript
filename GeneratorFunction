@@ -1,0 +1,13 @@
+function* Generatorfuntion(){
+    yield "firstavalu"
+    yield "secondvalu"
+    yield "thirdavalu"
+    return "krishna"
+
+
+}
+let generator=Generatorfuntion()
+console.log(generator.next())
+console.log(generator.next());
+console.log(generator.next());
+console.log(generator.next());
